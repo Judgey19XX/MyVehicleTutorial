@@ -74,6 +74,7 @@
         android:layout_below="@id/labelYear"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="22dp"
-        android:text="Run"/>
+        android:text="Run"
+        android:onClick="onButtonClick" />
 
 </RelativeLayout>
